@@ -1,3 +1,2 @@
 The strange case of Dr. Jekyll and Mr. Hyde is my comfort book!
-
-Also go follow @dvelowgraves
+This is a wip..
